@@ -6,7 +6,7 @@ export default function handler(req, res) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRN9IzdEemoZmhMlr5-EVw7JOFWcUdrihA5A&s">
 <title>Careers at Louis Vuitton</title>
 
 <style>
